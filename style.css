@@ -1,0 +1,17 @@
+*{
+    font-family: 'Roboto',sans-serif;
+}
+
+.logo
+{
+    display: block;
+    width: 75px;
+    height: 75px;
+}
+
+.descarga
+{
+    display: block;
+    width: 75px;
+    height: 75px
+}
